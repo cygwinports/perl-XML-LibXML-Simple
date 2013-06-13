@@ -1,0 +1,11 @@
+CPAN_AUTHOR=markov
+inherit perl
+
+NAME="perl-XML-LibXML-Simple"
+VERSION=0.93
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="XML::Simple clone based on XML::LibXML"
+DESCRIPTION="This module is a blunt rewrite of XML::Simple to use the
+XML::LibXML parser for XML structures, where the original uses plain Perl
+or SAX parsers."
